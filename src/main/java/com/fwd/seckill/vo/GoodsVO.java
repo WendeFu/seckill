@@ -26,4 +26,11 @@ public class GoodsVO extends Goods {
     void test31(){}
     void test41(){}
     void test51(){}
+
+    void test1(){}
+    void test2(){}
+    void test3(){}
+    void test4(){}
+    void test5(){}
+
 }
