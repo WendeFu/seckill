@@ -20,4 +20,10 @@ public class GoodsVO extends Goods {
     private Integer stockCount;
     private Date startDate;
     private Date endDate;
+
+    void test11(){}
+    void test21(){}
+    void test31(){}
+    void test41(){}
+    void test51(){}
 }
