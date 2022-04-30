@@ -33,4 +33,8 @@ public class GoodsVO extends Goods {
     void test4(){}
     void test5(){}
 
+    // 修bug
+    void bug01(){}
+    void bug02(){}
+
 }
